@@ -2,7 +2,7 @@
  * @Descripttion: your project
  * @Author: shujia
  * @Date: 2021-09-26 17:54:24
- * @LastEditTime: 2021-09-27 14:30:49
+ * @LastEditTime: 2021-09-27 14:37:17
  */
 import logo from './logo.svg';
 import './App.css';
@@ -14,7 +14,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Yahoo</p>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload 2.
         </p>
         <a
           className="App-link"
